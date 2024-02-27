@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davie Muthama</h1>
 <h3 align="center">Software Developer</h3>
-
-- 🔭 I’m currently working on **myjavascript**
-
-- 📫 How to reach me **muthama3david@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
